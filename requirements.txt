@@ -2,5 +2,5 @@ flask
 pandas
 numpy
 joblib
-scikit-learn as sklearn
+scikit-learn
 
